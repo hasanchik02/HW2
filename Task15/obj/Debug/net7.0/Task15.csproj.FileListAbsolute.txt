@@ -1,0 +1,15 @@
+D:\vsc\C#\HW2_sem\Task15\bin\Debug\net7.0\Task15.exe
+D:\vsc\C#\HW2_sem\Task15\bin\Debug\net7.0\Task15.deps.json
+D:\vsc\C#\HW2_sem\Task15\bin\Debug\net7.0\Task15.runtimeconfig.json
+D:\vsc\C#\HW2_sem\Task15\bin\Debug\net7.0\Task15.dll
+D:\vsc\C#\HW2_sem\Task15\bin\Debug\net7.0\Task15.pdb
+D:\vsc\C#\HW2_sem\Task15\obj\Debug\net7.0\Task15.csproj.AssemblyReference.cache
+D:\vsc\C#\HW2_sem\Task15\obj\Debug\net7.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsc\C#\HW2_sem\Task15\obj\Debug\net7.0\Task15.AssemblyInfoInputs.cache
+D:\vsc\C#\HW2_sem\Task15\obj\Debug\net7.0\Task15.AssemblyInfo.cs
+D:\vsc\C#\HW2_sem\Task15\obj\Debug\net7.0\Task15.csproj.CoreCompileInputs.cache
+D:\vsc\C#\HW2_sem\Task15\obj\Debug\net7.0\Task15.dll
+D:\vsc\C#\HW2_sem\Task15\obj\Debug\net7.0\refint\Task15.dll
+D:\vsc\C#\HW2_sem\Task15\obj\Debug\net7.0\Task15.pdb
+D:\vsc\C#\HW2_sem\Task15\obj\Debug\net7.0\Task15.genruntimeconfig.cache
+D:\vsc\C#\HW2_sem\Task15\obj\Debug\net7.0\ref\Task15.dll
